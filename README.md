@@ -1,3 +1,4 @@
+※練習のため新しいブランチを切ってます
 # javascript_asynchronous_processing
 ## 非同期処理とは
 - 実行完了を待たずに並行して次の処理を行う
